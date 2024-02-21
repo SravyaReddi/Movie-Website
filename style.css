@@ -1,0 +1,28 @@
+h1{
+    font-weight: 500;
+    color: rgb(4, 121, 49);
+    /* background-color: aliceblue; */
+    
+}
+body{
+    background-image: linear-gradient(to right, rgb(234, 159, 97),rgb(148, 148, 216),rgb(207, 134, 134));
+    margin: 5px;
+    border: 3px solid rgb(2, 2, 2);
+    padding: 15px;
+    color: black;
+}
+.slogan{
+    text-align: center;
+    font-style: italic;
+    font-size:x-large;
+
+}
+.container-fluid{
+    border-bottom: 2px solid black;
+    /* border: 2px solid black; */
+}
+.Disclaimer{
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
